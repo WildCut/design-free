@@ -1,4 +1,4 @@
-# design-free
+# Design-free
 Monthly Free SVG and STL - you can not sell these designs, but you can sell products based on it.
 
 LICENCE:
